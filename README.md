@@ -22,8 +22,8 @@ You will also need to be logging in via root as PiGPIO needs to run the applicat
 Example Usage
 --------------
 
-  PiMotor motor1(17, 18); //Initalise the class with Pin numbers for your DC Motor
-  motor1.run(0, 255); //Set PWM value for direction (0 = reverse, 1 = forwards)
-  motor1.stop(); //Stop the motor  
+  ```PiMotor motor1(17, 18); //Initalise the class with Pin numbers for your DC Motor
+  ```motor1.run(0, 255); //Set PWM value for direction (0 = reverse, 1 = forwards)
+  ```motor1.stop(); //Stop the motor  
   
 See example main.cpp 
