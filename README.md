@@ -1,1 +1,1 @@
-# RasPi-DC-Motor-Class
+Raspberry Pi C++ DC Motor Class
