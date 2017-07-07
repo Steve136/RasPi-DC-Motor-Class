@@ -1,3 +1,9 @@
+/* 
+ * File:   PiMotor.cpp
+ * Author: Steve McMillan
+ *
+ * Created on 07 July 2017, 17:13
+ */
 #include <stdio.h>
 #include <pigpio.h>
 #include <unistd.h>
