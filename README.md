@@ -23,7 +23,7 @@ Example Usage
 --------------
 
   ```
-  PiMotor motor1(17, 18); //Initalise the class with Pin numbers for your DC Motor
+  PiMotor motor1(17, 18); //Initialise the class with Pin numbers for your DC Motor
   motor1.run(1, 255); //Set PWM value for direction (0 = reverse, 1 = forwards)
   motor1.stop(); //Stop the motor  
   ```
